@@ -17,12 +17,12 @@ plot(1:12, pch=19, col=my_colors, size=4)
 <details>
 <summary>Hide or show</summary>
 
-'''R
+```R
 rnm_Vec <- sample(1:10,5)
 print(rnm)
-'''
+```
 
-'''Python
+```Python
 colors = ["red", "blue"]
-'''
+```
 </details>
