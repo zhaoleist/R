@@ -7,5 +7,6 @@ https://www.datanovia.com/en/blog/top-r-color-palettes-to-know-for-great-data-vi
 
 ```R
 my_colors <- c("steelblue2","blue3","seagreen3","green4","dimgray","coral4","pink2","gold","darkorange2","deeppink","purple","red1")
+plot(1:12, pch=19, col=my_colors, size=4)
 ```
 </details>
